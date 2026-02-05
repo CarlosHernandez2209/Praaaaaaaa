@@ -15,4 +15,4 @@ What we saw in Alforithm Theory class
 
 *La grafica $G$
 *La formula $$a=\fracc{B}{C}$$
-*
+*bb
