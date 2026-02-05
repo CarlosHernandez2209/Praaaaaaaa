@@ -20,4 +20,6 @@ $\forall A \subseteq X, \; |A| \leq |N(A)|$*
 
 $$ a=\fracc{B}{C} $$
 
-*Una funcion $f(n)$ en $0(n)$ se existe C tal que $$ |f(n)<|n| $$
+*Una funcion $f(n)$ en $0(n)$ se existe C tal que 
+
+$$ |f(n)<|n| $$
