@@ -12,7 +12,7 @@ What we saw in Alforithm Theory class
 -Finalmente nos dio el primer *TEOREMA* :
 
 *Una condicion necesaria para que exista un emparejamiento es que 
-$\forall A \subseteq X, \; |A| \leq |N(A)|$*
+$\forall A \subseteq X,\; |A| \leq |N(A)|$*
 
 *La grafica $G$
 
