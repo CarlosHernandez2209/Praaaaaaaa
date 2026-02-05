@@ -18,7 +18,7 @@ $\forall A \subseteq X,\; |A| \leq |N(A)|$*
 
 *La formula 
 
-$$ a=\fracc{B}{C} $$
+$$ a=\frac{B}{C} $$
 
 *Una funcion $f(n)$ en $0(n)$ se existe C tal que 
 
