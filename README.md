@@ -11,8 +11,13 @@ What we saw in Alforithm Theory class
 
 -Finalmente nos dio el primer *TEOREMA* :
 
-*Una condicion necesaria para que exista un emparejamiento es que $\forall A \subseteq X, \; |A| \leq |N(A)|$*
+*Una condicion necesaria para que exista un emparejamiento es que 
+$\forall A \subseteq X, \; |A| \leq |N(A)|$*
 
 *La grafica $G$
-*La formula $$a=\fracc{B}{C}$$
-*bb
+
+*La formula 
+
+$$ a=\fracc{B}{C} $$
+
+*Una funcion $f(n)$ en $0(n)$ se existe C tal que $$ |f(n)<|n| $$
